@@ -84,7 +84,6 @@ C:\Projetos\PaymentContext\PaymentContext.Tests\PaymentContext.Tests\bin\Debug\n
 C:\Projetos\PaymentContext\PaymentContext.Tests\PaymentContext.Tests\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CommunicationUtilities.resources.dll
 C:\Projetos\PaymentContext\PaymentContext.Tests\PaymentContext.Tests\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.TestPlatform.CrossPlatEngine.resources.dll
 C:\Projetos\PaymentContext\PaymentContext.Tests\PaymentContext.Tests\bin\Debug\netcoreapp3.0\zh-Hant\Microsoft.VisualStudio.TestPlatform.Common.resources.dll
-C:\Projetos\PaymentContext\PaymentContext.Tests\PaymentContext.Tests\obj\Debug\netcoreapp3.0\PaymentContext.Tests.csprojAssemblyReference.cache
 C:\Projetos\PaymentContext\PaymentContext.Tests\PaymentContext.Tests\obj\Debug\netcoreapp3.0\PaymentContext.Tests.AssemblyInfoInputs.cache
 C:\Projetos\PaymentContext\PaymentContext.Tests\PaymentContext.Tests\obj\Debug\netcoreapp3.0\PaymentContext.Tests.AssemblyInfo.cs
 C:\Projetos\PaymentContext\PaymentContext.Tests\PaymentContext.Tests\obj\Debug\netcoreapp3.0\PaymentContext.Tests.csproj.CopyComplete
